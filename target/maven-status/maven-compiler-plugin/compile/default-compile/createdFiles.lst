@@ -1,0 +1,6 @@
+com/shcherbak/util/Constants.class
+com/shcherbak/parser/App.class
+com/shcherbak/parser/JSoupConnector.class
+com/shcherbak/parser/model/Product.class
+com/shcherbak/parser/model/Size.class
+com/shcherbak/parser/model/TrackingData.class
